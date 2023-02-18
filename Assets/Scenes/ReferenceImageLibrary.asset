@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5753264701830900518
+  m_GuidHigh: 11256727513190155681
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5002713790643518685
+      m_GuidHigh: 3572442169160435349
+    m_SerializedTextureGuid:
+      m_GuidLow: 13039133892421493663
+      m_GuidHigh: 5020192802430602203
+    m_Size: {x: 0.5, y: 0.8923611}
+    m_SpecifySize: 1
+    m_Name: Yoricchi
+    m_Texture: {fileID: 0}

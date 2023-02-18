@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7801350996310817390
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7801350996310817388}
+  - component: {fileID: 7801350996310817391}
+  m_Layer: 0
+  m_Name: InstantiationController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7801350996310817388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7801350996310817390}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -500.63757, y: -321.2206, z: 28.137522}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7801350996310817391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7801350996310817390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e14be0613cf7ea4b9d74d9eaa4d9992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAREnabled: 1
+  PlaceAnimation: {fileID: 0}
+  tractorPrefab: {fileID: 5590635664883111624, guid: 961e084898282d64188793e69cb06b46,
+    type: 3}
+  plowPrefab: {fileID: 3441931477181603856, guid: e38a05fbda54aa0468307e7f7bc64a7c,
+    type: 3}
+  spawnPoint: {fileID: 0}
+  linchPin: {fileID: 8229742105848708273, guid: 676231da9ef56d843a12fc5b2bb24f2c,
+    type: 3}
+  _pin: {fileID: 4467046328310500794, guid: 6d08e3b9062f8b54b840b58699f09152, type: 3}
+  m_ARCamera: {fileID: 0}
+  SceneDirectionalLight: {fileID: 0}
+  m_RaycastManager: {fileID: 0}
+  m_AnchorManager: {fileID: 0}
+  m_ARSession: {fileID: 0}
+  m_PlaneManager: {fileID: 0}
+  lynchpinController: {fileID: 0}

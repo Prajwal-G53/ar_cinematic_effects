@@ -1,0 +1,4 @@
+##URL's for push
+
+ git push https://PrajwalG143@gitlab.com./PrajwalG143/ar_interaction_.git 
+git push  https://PrajwalG143@gitlab.com/PrajwalG143/tnau-downy-mildew-ar.git
